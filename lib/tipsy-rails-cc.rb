@@ -1,1 +1,1 @@
-require 'tipsy/rails'
+require 'tipsy/rails.rb'
