@@ -2,12 +2,12 @@
 require File.expand_path('../lib/tipsy/rails/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "tipsy-rails"
+  s.name        = "tipsy-rails-cc"
   s.version     = Tipsy::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Nick Ragaz"]
   s.email       = ["nick.ragaz@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/tipsy-rails"
+  s.homepage    = "http://rubygems.org/gems/tipsy-rails-cc"
   s.summary     = "Use the Tipsy jQuery plugin with Rails 3.1"
   s.description = "This gem provides the Tipsy jQuery plugin for your Rails 3.1 application."
 

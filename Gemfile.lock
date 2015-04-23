@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tipsy-rails (1.0.2)
+    tipsy-rails-cc (1.0.2)
       railties (~> 3.0)
       sass-rails
 
